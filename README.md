@@ -12,7 +12,7 @@ I am willing to rebalance this recipe but as of right now, it is mainly a proof 
 
 ### Kevlar
 
-Kevlar is an item added to be used to craft the Elytra. Real kevlar is made by weaving synthetic fabric, so the closest thing in the game is leather
+Kevlar is an item added to be used to craft the Elytra. Real kevlar is made by weaving synthetic fabric, so the closest thing in the game is leather.
 In my opinion, copper doesn't have enough uses in the game to justify its abundance, so I decided to add a copper ingot to the recipe
 
 <img src="./img/kevlar.png">
