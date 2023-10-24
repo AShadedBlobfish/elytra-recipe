@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "KKK",
+    "KNK",
+    "KFK"
+  ],
+  "key": {
+    "K": {
+      "item": "elytra_recipe:kevlar"
+    },
+    "N": {
+      "item": "elytra_recipe:enchanted_ender_eye"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra"
+  }
+}

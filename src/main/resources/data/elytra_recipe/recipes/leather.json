@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "K  ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "K": {
+      "item": "elytra_recipe:kevlar"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather",
+    "count": 2
+  }
+}
