@@ -39,4 +39,4 @@ Like Kevlar, the Superb Eye of Ender can be placed into a crafting table to obta
 
 ---------------------------
 
-The mod is currently only available for 1.20.1
+The mod is currently only available for 1.20.x
