@@ -10,7 +10,16 @@ I am willing to rebalance this recipe but as of right now, it is mainly a proof 
 <br>
 <br>
 
-### Kevlar
+### Vanilla Edition
+
+The Vanilla Edition is a version of the mod which uses only vanilla items in the recipe.
+
+<img src="./img/vanilla-recipe.png" alt="Vanilla Edition Recipe for Elytra">
+
+The recipe in the Vanilla Edition
+<br><br>
+
+### Kevlar (Standard Edition only)
 
 Kevlar is an item added to be used to craft the Elytra. Real kevlar is made by weaving synthetic fabric, so the closest thing in the game is leather.
 In my opinion, copper doesn't have enough uses in the game to justify its abundance, so I decided to add a copper ingot to the recipe
@@ -24,7 +33,7 @@ A single kevlar can be placed into a crafting table to obtain back it's leather,
 <img src="./img/kevlar_uncraft.png">
 <br>
 
-### Superb Eye of Ender
+### Superb Eye of Ender (Standard Edition only)
 
 The Superb Eye of Ender is crafted using 9 Eye of Ender and is used in crafting the Elytra
 
